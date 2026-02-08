@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Durga Dhakal | Personal Portfolio</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', sans-serif;
+            background: #0f172a;
+            color: #e5e7eb;
+            line-height: 1.6;
+        }
+
+        header {
+            padding: 80px 20px;
+            text-align: center;
+            background: linear-gradient(135deg, #2563eb, #1e40af);
+        }
+
+        header h1 {
+            font-size: 3rem;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+        section {
+            max-width: 1000px;
+            margin: auto;
+            padding: 60px 20px;
+        }
+
+        h2 {
+            color: #60a5fa;
+            margin-bottom: 20px;
+        }
+
+        .card {
+            background: #020617;
+            padding: 25px;
+            border-radius: 12px;
+            margin-bottom: 25px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 30px;
+            background: #020617;
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2.2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Durga Dhakal</h1>
+    <p>Content Creator • News Enthusiast • Digital Media</p>
+    <p>??????? ???????? • ?????? ?????? • ?????? ??????</p>
+</header>
+
+<section>
+    <div class="card">
+        <h2>About Me | ???? ??????</h2>
+        <p>
+            Hello! I’m Durga Dhakal, a passionate content creator focused on Nepali and international news.
+        </p>
+        <p>
+            ??????! ? ?????? ???? ???? ? ?????? ??? ??????????????? ???????? ????????? ??????? ???????? ????
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>Skills | ??????</h2>
+        <ul>
+            <li>News Reporting / ?????? ?????????</li>
+            <li>Script Writing / ????????? ????</li>
+            <li>YouTube Content Creation</li>
+            <li>Social Media Management</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>Projects | ???????????</h2>
+        <ul>
+            <li>?? GlobalNepal News – YouTube Channel</li>
+            <li>?? TikTok – Mystery of Life</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>Contact | ???????</h2>
+        <p>Email: your@email.com</p>
+        <p>YouTube: GlobalNepal News</p>
+    </div>
+</section>
+
+<footer>
+    © 2026 Durga Dhakal • All Rights Reserved
+</footer>
+
+</body>
+</html>
